@@ -23,7 +23,8 @@ btn4 = Button(win,relief=RIDGE,bd=7, bg='white',font=("Arial",10,"bold"), height
 metka = Label(win,bd = 4, bg="white",font=("Arial",30,"bold"), height = 1, width=18)
 
 
-
+#gkjklfjgklfljglkl
+#kg;lfkg;ldfk
 
 
 
