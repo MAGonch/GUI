@@ -24,7 +24,7 @@ metka = Label(win,bd = 4, bg="white",font=("Arial",30,"bold"), height = 1, width
 
 
 
-#jkhjkhj
+
 
 
 
